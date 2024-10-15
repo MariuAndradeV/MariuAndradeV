@@ -14,8 +14,8 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 
 ## Technical Skills
 ### Languages:
-![Python logo](img\Languages\Python-logo-notext.svg.png | width=50)
-![Java logo](img\Languages\java-logo-1.png | width=50)
+![Python logo](img/Languages/C_Logo.png | width=50)
+![Java logo](img/Languages/java-logo-1.png | width=50)
 ![C logo](img\Languages\C_Logo.png)
 ![JS logo](img\Languages\javascript-logo-javascript-icon-transparent-free-png.webp)
 ![MIPS logo](img\Languages\mips-logo-A2C5DD00CD-seeklogo.com.png)
