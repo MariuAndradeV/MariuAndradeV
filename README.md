@@ -1,22 +1,31 @@
 # Hi, I’m Mariu Andrade Veloz
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses.
 
-## Contenido
+## Content
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 
-## Información personal
+## Personal Information
 * Nombre: [Tu nombre]
 * Ocupación: [Tu ocupación]
 * Lugar de residencia: [Tu lugar de residencia]
 * Sitio web: [Tu sitio web]
 
-## Deploy projects:
-* CookFinder [Lista de tus proyectos]
-* CV 
+## Technical Skills
+### Languages:
+
+### Web Development:
+
+### Technologies/Frameworks:
+
+## Deploy projects
+* CookFinder:
+* CV:
+* PagX:
+* WIDs: 
   
-## Intereses
+## Interests
 - 🎓 I’m a Computer Science student at Escuela Superior Politécnica del Litoral (ESPOL), currently in my fifth semester.
 - 👀 I’m interested in artificial intelligence, web and mobile development, and I’m also exploring the basics of cybersecurity.
   
