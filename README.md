@@ -14,15 +14,12 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 
 ## Technical Skills
 ### Languages:
-<img src="img/Languages/C_Logo.png" width="100">
-
-![Python logo](img/Languages/C_Logo.png | width=50)
-![Java logo](img/Languages/java-logo-1.png | width=50)
-![C logo](img/Languages/C_Logo.png)
-![JS logo](img\Languages\javascript-logo-javascript-icon-transparent-free-png.webp)
-![MIPS logo](img\Languages\mips-logo-A2C5DD00CD-seeklogo.com.png)
-![SQL logo](img\Languages\Sql_data_base_with_logo.png)
-
+<img alt="python logo" src="img/Languages/Python-logo-notext.svg.png" width="75">
+<img alt="java logo" src="img/Languages/java-logo-1.png" width="75">
+<img alt="c logo" src="img/Languages/C_Logo.png" width="75">
+<img alt="JS logo" src="img/Languages/javascript-logo-javascript-icon-transparent-free-png.webp" width="75">
+<img alt="MIPS logo" src="img/Languages/mips-logo-A2C5DD00CD-seeklogo.com.png" width="75">
+<img alt="SQL logo" src="img/Languages/Sql_data_base_with_logo.png" width="75">
 
 ### Web Development:
 
