@@ -7,9 +7,9 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * [Intereses](#intereses)
 
 ## Personal Information
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
+* Nombre: Mariu Andrade Veloz
+* Ocupación: Computer Science student
+* Lugar de residencia: Guayaquil, Ecuador
 * Sitio web: [Tu sitio web]
 
 ## Technical Skills
@@ -24,8 +24,20 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 </p>
 
 ### Web Development:
+<p float="left">
+  <img alt="html logo" src="img/web deve/HTML5_logo_and_wordmark.svg.png" width="75">
+  <img alt="css logo" src="img/web deve/CSS-Logo.png" width="75">
+  <img alt="react logo" src="img/web deve/react-original-wordmark-icon-840x1024-vhmauxp6.png" width="75">
+  <img alt="taildwind logo" src="img/web deve/tailwind-css.svg" width="75">
+</p>
 
 ### Technologies/Frameworks:
+<p float="left">
+  <img alt="linux logo" src="img/Technologies-Frameworks/72d1f12edf758d24f5b6db73bac4f297-linux-logo.webp" width="75">
+  <img alt="git logo" src="img/web deve/img/Technologies-Frameworks/git-icon-2048x2048-juzdf1l5.png" width="75">
+  <img alt="roboflow logo" src="img/Technologies-Frameworks/roboflow-inc-logo-vector.png" width="75">
+  <img alt="yolo logo" src="img/Technologies-Frameworks/yolo_logo_icon_249127.webp" width="75">
+</p>
 
 ## Deploy projects
 * CookFinder:
@@ -36,10 +48,8 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 ## Interests
 - 🎓 I’m a Computer Science student at Escuela Superior Politécnica del Litoral (ESPOL), currently in my fifth semester.
 - 👀 I’m interested in artificial intelligence, web and mobile development, and I’m also exploring the basics of cybersecurity.
-  
 - 🎶 I love listening to all kinds of music, watching series, and learning new things that catch my interest.
 - 🎮 I like playing video games (even though I’m not very good at them), and enjoy sports and working out.
-  
 - 🤝 I’m a bit shy at first, but once I get to know people, I’m friendly, charismatic, and a good friend.
 - ⚡ Fun fact: I once considered applying to be a firefighter, and I have a quirky fear of balloons.
 
