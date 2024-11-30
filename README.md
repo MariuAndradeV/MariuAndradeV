@@ -9,10 +9,8 @@ Feel free to explore my work and connect!
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariuAndradeV&theme=dracula)]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariuAndradeV&layout=donut-vertical)]
-
+<img alt="a" src="https://github-readme-stats.vercel.app/api?username=MariuAndradeV&theme=dracula"/>
+<img alt="a" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariuAndradeV&layout=donut-vertical"/>
 </div>
 
 ## Content
