@@ -16,17 +16,19 @@ Feel free to explore my work and connect!
 </div>
 
 ## Content
-* [Personal Information](#personal-information)
+* [Interests](#interests)
 * [Languages](#some-tools-i-have-used-and-learned)
 * [Deploy projects](#deploy-projects)
-* [Interests](#interests)
 * [Contact me](#contact-me)
 
 
-## Personal Information
-* Name: Mariu Andrade Veloz
-* Occupation: Computer Science student
-* Residency: Guayaquil, Ecuador
+## Interests
+- 🎓 I’m a Computer Science student at Escuela Superior Politécnica del Litoral (ESPOL), currently in my fifth semester.
+- 👀 I’m interested in artificial intelligence, web and mobile development, and I’m also exploring the basics of cybersecurity.
+- 🎶 I love listening to all kinds of music, watching series, and learning new things that catch my interest.
+- 🎮 I like playing video games (even though I’m not very good at them), and enjoy sports and working out.
+- 🤝 I’m a bit shy at first, but once I get to know people, I’m friendly, charismatic, and a good friend.
+- ⚡ Fun fact: I once considered applying to be a firefighter, and I have a quirky fear of balloons.
 
 ## Some Tools I Have Used and Learned
 
@@ -62,27 +64,14 @@ Feel free to explore my work and connect!
 </p>
 
 ## Deploy projects
-* [CookFinder](https://github.com/MariuAndradeV/COOKFINDER): Developed an application involving computer vision to detect six ingredients from
- multimedia content. Utilized YOLOv8 for object detection and Streamlit for the user
- interface, and employed the OpenAI API to generate detailed recipes based on the detected
- ingredients.
+* [CookFinder](https://github.com/MariuAndradeV/COOKFINDER): Developed an application involving computer vision to detect six ingredients from multimedia content. Utilized YOLOv8 for object detection and Streamlit for the user interface, and employed the OpenAI API to generate detailed recipes based on the detected ingredients.
  **React, JavaScript, CSS, Web Design**
 
-* [Tic-Tac-Toe Game](https://github.com/Jlchong3/ProyectoEstructuras/tree/1923ebfe1d2d2dbac71ecce160df8e8ffb294eb2/SegundoParcial/tresEnRaya): Developed an interactive Tic-Tac-Toe game, applying object-oriented programming (OOP)
- principles and CSS for interface design. This project highlights skills in game logic, data
- structures, and graphical user interface (GUI) design.
+* [Tic-Tac-Toe Game](https://github.com/Jlchong3/ProyectoEstructuras/tree/1923ebfe1d2d2dbac71ecce160df8e8ffb294eb2/SegundoParcial/tresEnRaya):  Developed an interactive Tic-Tac-Toe game, applying object-oriented programming (OOP) principles and CSS for interface design. This project highlights skills in game logic, data structures, and graphical user interface (GUI) design.
 **Java, CSS, OOP**
 
 * [WIDs](https://wids.espol.edu.ec/): Contributed to the development of a website for Women in Data Science (WiDS) at ESPOL, leveraging React to design a dynamic and user-friendly interface.
 **React, JavaScript, CSS, Web Design**
-
-## Interests
-- 🎓 I’m a Computer Science student at Escuela Superior Politécnica del Litoral (ESPOL), currently in my fifth semester.
-- 👀 I’m interested in artificial intelligence, web and mobile development, and I’m also exploring the basics of cybersecurity.
-- 🎶 I love listening to all kinds of music, watching series, and learning new things that catch my interest.
-- 🎮 I like playing video games (even though I’m not very good at them), and enjoy sports and working out.
-- 🤝 I’m a bit shy at first, but once I get to know people, I’m friendly, charismatic, and a good friend.
-- ⚡ Fun fact: I once considered applying to be a firefighter, and I have a quirky fear of balloons.
 
 ## Contact me
 <p align="center">
