@@ -1,28 +1,38 @@
 # Hi, I’m Mariu Andrade Veloz
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses.
+Welcome to my personal website! Here you'll find information about me, my projects, and my interests.
+
+👩‍💻 I'm a Computer Science student at ESPOL, passionate about AI, Web/Mobile Development, and currently exploring Cybersecurity. Beyond tech, I'm a music lover and enjoy blending creativity with technology to build innovative solutions.
+
+Feel free to explore my work and connect!
 
 ## My stats ⭐
+
+<div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariuAndradeV&theme=dracula)](https://github.com/MariuAndradeV/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariuAndradeV&layout=donut-vertical)](https://github.com/MariuAndradeV/github-readme-stats)
 
+</div>
+
 ## Content
-* [Información personal](#información-personal)
-* [Proyectos](#proyectos)
-* [Intereses](#intereses)
+* [Información personal](#personal-information)
+* [Languages](#some-tools-i-have-used-and-learned)
+* [Deploy projects](#deploy-projects)
+* [Interests](#interests)
+* [Contact me](#contact-me)
+
 
 ## Personal Information
-* Nombre: Mariu Andrade Veloz
-* Ocupación: Computer Science student
-* Lugar de residencia: Guayaquil, Ecuador
-* Sitio web: [Tu sitio web]
+* Name: Mariu Andrade Veloz
+* Occupation: Computer Science student
+* Residency: Guayaquil, Ecuador
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+## 🚀 Some Tools I Have Used and Learned
 
 ### Languages:
 
-<p align="left">
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="55" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="55" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="55" height="55"/>
@@ -35,7 +45,7 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 
 ### Web Development:
 
-<p align="left">
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="python" width="55" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="java" width="55" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="c" width="55" height="55"/>
@@ -44,12 +54,11 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 
 ### Technologies/Frameworks:
 
-<p align="left">
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="python" width="55" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="java" width="55" height="55"/>
 <img alt="roboflow logo" src="img/Technologies-Frameworks/roboflow-inc-logo-vector.png" width="100">
 <img alt="yolo logo" src="img/Technologies-Frameworks/yolo_logo_icon_249127.webp" width="75">
-
 </p>
 
 ## Deploy projects
@@ -57,15 +66,16 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
  multimedia content. Utilized YOLOv8 for object detection and Streamlit for the user
  interface, and employed the OpenAI API to generate detailed recipes based on the detected
  ingredients.
- React, JavaScript, CSS, Web Design
+ **React, JavaScript, CSS, Web Design**
 
 * [Tic-Tac-Toe Game](https://github.com/Jlchong3/ProyectoEstructuras/tree/1923ebfe1d2d2dbac71ecce160df8e8ffb294eb2/SegundoParcial/tresEnRaya): Developed an interactive Tic-Tac-Toe game, applying object-oriented programming (OOP)
  principles and CSS for interface design. This project highlights skills in game logic, data
  structures, and graphical user interface (GUI) design.
+**Java, CSS, OOP**
 
-* [WIDs](https://wids.espol.edu.ec/): Contributed to the development of a website for Women in Data Science (WiDS) at ESPOL,
- leveraging React to design a dynamic and user-friendly interface.
-  
+* [WIDs](https://wids.espol.edu.ec/): Contributed to the development of a website for Women in Data Science (WiDS) at ESPOL, leveraging React to design a dynamic and user-friendly interface.
+**React, JavaScript, CSS, Web Design**
+
 ## Interests
 - 🎓 I’m a Computer Science student at Escuela Superior Politécnica del Litoral (ESPOL), currently in my fifth semester.
 - 👀 I’m interested in artificial intelligence, web and mobile development, and I’m also exploring the basics of cybersecurity.
@@ -75,8 +85,13 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 - ⚡ Fun fact: I once considered applying to be a firefighter, and I have a quirky fear of balloons.
 
 ## Contact me
+<p align="center">
 <a href="https://www.linkedin.com/in/mariu-andrade-veloz-9256b9279">
-  <img src="https://img.freepik.com/vector-premium/logotipo-cuadrado-linkedin-aislado-sobre-fondo-blanco_469489-892.jpg" alt="LinkedIn" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50">
 </a>
-![image](https://github.com/user-attachments/assets/323a7533-327f-4c9f-9866-27e3fc30d20d)
 
+<a href="https://github.com/MariuAndradeV">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="50">
+</a>
+
+</p>
