@@ -1,8 +1,11 @@
 # Hi, I’m Mariu Andrade Veloz
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariuAndradeV)](https://github.com/MariuAndradeV/github-readme-stats)
+## My stats ⭐
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariuAndradeV&theme=dracula)](https://github.com/MariuAndradeV/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariuAndradeV&layout=donut-vertical)](https://github.com/MariuAndradeV/github-readme-stats)
 
 ## Content
 * [Información personal](#información-personal)
@@ -15,38 +18,53 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * Lugar de residencia: Guayaquil, Ecuador
 * Sitio web: [Tu sitio web]
 
-## Technical Skills
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+
 ### Languages:
-<p float="left">
-  <img alt="python logo" src="img/Languages/Python-logo-notext.svg.png" width="75">
-  <img alt="java logo" src="img/Languages/java-logo-1.png" width="75">
-  <img alt="c logo" src="img/Languages/C_Logo.png" width="75">
-  <img alt="JS logo" src="img/Languages/javascript-logo-javascript-icon-transparent-free-png.webp" width="75">
-  <img alt="MIPS logo" src="img/Languages/mips-logo-A2C5DD00CD-seeklogo.com.png" width="75">
-  <img alt="SQL logo" src="img/Languages/Sql_data_base_with_logo.png" width="75">
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
+<img alt="MIPS logo" src="img/Languages/mips-logo-A2C5DD00CD-seeklogo.com.png" width="55">
+
 </p>
 
+
 ### Web Development:
-<p float="left">
-  <img alt="html logo" src="img/web deve/HTML5_logo_and_wordmark.svg.png" width="75">
-  <img alt="css logo" src="img/web deve/CSS-Logo.png" width="75">
-  <img alt="react logo" src="img/web deve/react-original-wordmark-icon-840x1024-vhmauxp6.png" width="75">
-  <img alt="taildwind logo" src="img/web deve/tailwind-css.svg" width="75">
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="python" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="java" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="c" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="sql" width="55" height="55"/>
 </p>
 
 ### Technologies/Frameworks:
-<p float="left">
-  <img alt="linux logo" src="img/Technologies-Frameworks/72d1f12edf758d24f5b6db73bac4f297-linux-logo.webp" width="75">
-  <img alt="git logo" src="img/web deve/img/Technologies-Frameworks/git-icon-2048x2048-juzdf1l5.png" width="75">
-  <img alt="roboflow logo" src="img/Technologies-Frameworks/roboflow-inc-logo-vector.png" width="75">
-  <img alt="yolo logo" src="img/Technologies-Frameworks/yolo_logo_icon_249127.webp" width="75">
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="python" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="java" width="55" height="55"/>
+<img alt="roboflow logo" src="img/Technologies-Frameworks/roboflow-inc-logo-vector.png" width="100">
+<img alt="yolo logo" src="img/Technologies-Frameworks/yolo_logo_icon_249127.webp" width="75">
+
 </p>
 
 ## Deploy projects
-* CookFinder:
-* CV:
-* PagX:
-* WIDs: 
+* [CookFinder](https://github.com/MariuAndradeV/COOKFINDER): Developed an application involving computer vision to detect six ingredients from
+ multimedia content. Utilized YOLOv8 for object detection and Streamlit for the user
+ interface, and employed the OpenAI API to generate detailed recipes based on the detected
+ ingredients.
+ React, JavaScript, CSS, Web Design
+
+* [Tic-Tac-Toe Game](https://github.com/Jlchong3/ProyectoEstructuras/tree/1923ebfe1d2d2dbac71ecce160df8e8ffb294eb2/SegundoParcial/tresEnRaya): Developed an interactive Tic-Tac-Toe game, applying object-oriented programming (OOP)
+ principles and CSS for interface design. This project highlights skills in game logic, data
+ structures, and graphical user interface (GUI) design.
+
+* [WIDs](https://wids.espol.edu.ec/): Contributed to the development of a website for Women in Data Science (WiDS) at ESPOL,
+ leveraging React to design a dynamic and user-friendly interface.
   
 ## Interests
 - 🎓 I’m a Computer Science student at Escuela Superior Politécnica del Litoral (ESPOL), currently in my fifth semester.
