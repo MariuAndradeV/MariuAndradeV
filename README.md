@@ -16,8 +16,8 @@ Feel free to explore my work and connect!
 </div>
 
 ## Content
-* [Información personal](#personal-information)
-* [Languages](#some-tools-i-have-used-and-learned)
+* [Personal Information](#personal-information)
+* [Languages](#🚀-some-tools-i-have-used-and-learned)
 * [Deploy projects](#deploy-projects)
 * [Interests](#interests)
 * [Contact me](#contact-me)
