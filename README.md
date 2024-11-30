@@ -17,7 +17,7 @@ Feel free to explore my work and connect!
 
 ## Content
 * [Personal Information](#personal-information)
-* [Languages](#🚀-some-tools-i-have-used-and-learned)
+* [Languages](#some-tools-i-have-used-and-learned)
 * [Deploy projects](#deploy-projects)
 * [Interests](#interests)
 * [Contact me](#contact-me)
@@ -28,9 +28,9 @@ Feel free to explore my work and connect!
 * Occupation: Computer Science student
 * Residency: Guayaquil, Ecuador
 
-## 🚀 Some Tools I Have Used and Learned
+## Some Tools I Have Used and Learned
 
-### Languages:
+### Languages: 🚀
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="55" height="55"/>
@@ -43,7 +43,7 @@ Feel free to explore my work and connect!
 </p>
 
 
-### Web Development:
+### Web Development: 🚀
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="python" width="55" height="55"/>
@@ -52,7 +52,7 @@ Feel free to explore my work and connect!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="sql" width="55" height="55"/>
 </p>
 
-### Technologies/Frameworks:
+### Technologies/Frameworks: 🚀
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="python" width="55" height="55"/>
