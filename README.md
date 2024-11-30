@@ -1,6 +1,9 @@
 # Hi, I’m Mariu Andrade Veloz
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariuAndradeV)](https://github.com/MariuAndradeV/github-readme-stats)
+
+
 ## Content
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
