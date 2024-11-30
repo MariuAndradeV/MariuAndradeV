@@ -6,8 +6,14 @@ Welcome to my personal website! Here you'll find information about me, my projec
 Feel free to explore my work and connect!
 
 ## My stats ⭐
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 <div align="center">
+![Anurag's GitHub stats](https://img.shields.io/static/v1?label=MariuAndradeV&message=Stats)
 
 <img alt="a" src="https://github-readme-stats.vercel.app/api?username=MariuAndradeV&theme=dracula"/>
 <img alt="a" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariuAndradeV&layout=donut-vertical"/>
